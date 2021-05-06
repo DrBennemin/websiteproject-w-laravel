@@ -5,4 +5,5 @@
         <div class="bg-gray-900 text-white">
             allllllter bin ich ein hacker
         </div>
+        <example-component></example-component>
     </div>
